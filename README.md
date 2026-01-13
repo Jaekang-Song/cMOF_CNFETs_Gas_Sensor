@@ -1,0 +1,1 @@
+This contains gas sensing datasets for various gases and microorganisms collected in the study "Tunable and highly-sensitive functionalized carbon nanotube-based integrated systems for chemical gas sensing". 
